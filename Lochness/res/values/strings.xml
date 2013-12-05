@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lochness</string>
+    <string name="action_settings">Settings</string>
+    <string name="MM">Measurement Mania</string>
+    <string name="a">Area</string>
+    <string name="p">Perimeter</string>
+    <string name="sa">Surface Area</string>
+    <string name="v">Volume</string>
+    <string name="intro">Which type of measurement would you like to use?</string>
+    <string name="ar">Area</string>
+
+</resources>
