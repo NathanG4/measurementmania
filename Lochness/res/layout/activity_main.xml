@@ -79,7 +79,8 @@
         android:layout_above="@+id/tableLayout1"
         android:layout_alignParentRight="true"
         android:text="@string/introoo"
-        android:textAppearance="?android:attr/textAppearanceSmall" />
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="20" />
 
     <TextView
         android:id="@+id/textView1"
