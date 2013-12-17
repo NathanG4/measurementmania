@@ -11,5 +11,7 @@
     <string name="intro">Which type of measurement would you like to use?</string>
     <string name="ar">Area</string>
     <string name="introoo">Select the type of measurement you would like to use.</string>
+    <string name="title_activity_area">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>
